@@ -9,5 +9,6 @@
 
 ### Архитектура модели
 
-### GitHub команды
-
+### GitHub аккаунты команды
+https://github.com/plazinho <br>
+https://github.com/IlyaGaluzinskiy
