@@ -1,7 +1,6 @@
 ## Let's Talk: American Sign Language (ASL) Recognition 
 This project allows to recognize and translate ASL gestures in real-time using  web-camera. 
-### Visualization
-
+![alt text](https://github.com/aabdysheva/Lets_Talk/blob/main/alsu.gif)
 ### Libraries we used
 - OpenCV
 - MediaPipe
