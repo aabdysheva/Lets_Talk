@@ -1,2 +1,2 @@
-# Let-s-Talk
+# Lets-Talk
 Real-time sign language translator 
